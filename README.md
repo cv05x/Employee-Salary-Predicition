@@ -1,6 +1,6 @@
 # Employee Salary Prediction using Machine Learning
 
-This project aims to predict employee salaries based on key features such as experience, education, and job role using machine learning techniques. The model is built using XGBoost and deployed with a user-friendly interface using Streamlit.
+This project aims to predict employee salaries based several inputs using machine learning techniques. The model is built using XGBoost and deployed with a user-friendly interface using Streamlit.
 
 ---
 
@@ -15,13 +15,12 @@ This project aims to predict employee salaries based on key features such as exp
 
 ## 📂 Project Structure
 
-employee-salary-prediction/
-├── app.py # Streamlit app
-├── new.ipynb # Jupyter notebook with training & preprocessing
-├── model.joblib # Trained ML model
-├── dataset.csv # Provided dataset
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
+- app.py # Streamlit app
+- new.ipynb # Jupyter notebook with training & preprocessing
+- model.joblib # Trained ML model
+- dataset.csv # Provided dataset
+- README.md # Project documentation
+- requirements.txt # Python dependencies
 
 ---
 
@@ -47,19 +46,19 @@ streamlit run app.py
 
 
 ## Features
-Data preprocessing with label encoding
-Model training using XGBoost
-Model evaluation using metrics like accuracy and confusion matrix
-Web interface to input new data and get predictions
+- Data preprocessing with label encoding
+- Model training using XGBoost
+- Model evaluation using metrics like accuracy and confusion matrix
+- Web interface to input new data and get predictions
 
 ## ML Workflow
-Load and preprocess the data
-Encode categorical features
-Train/test split
-Model training with XGBClassifier
-Evaluate model using accuracy, ROC-AUC, and confusion matrix
-Save model with joblib
-Deploy with Streamlit
+- Load and preprocess the data
+- Encode categorical features
+- Train/test split
+- Model training with XGBClassifier
+- Evaluate model using accuracy, ROC-AUC, and confusion matrix
+- Save model with joblib
+- Deploy with Streamlit
 
 ## Sample Screenshot
 
