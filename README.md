@@ -29,7 +29,7 @@ This project aims to predict employee salaries based several inputs using machin
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/cv05x/Employee-Salary-Prediction.git
-cd employee-salary-prediction
+cd Employee-Salary-Prediction
 
 ```
 ### 2. Install Dependencies
