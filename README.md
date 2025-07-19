@@ -15,7 +15,7 @@ This project aims to predict employee salaries based several inputs using machin
 
 ## 📂 Project Structure
 
-- app.py --> Streamlit app
+- app.py # Streamlit app
 - Salary_predicition.ipynb # Jupyter notebook with training & preprocessing
 - XGBoost.joblib # Trained ML model
 - adult 3.csv # Provided dataset
