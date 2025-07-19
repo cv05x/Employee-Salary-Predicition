@@ -23,22 +23,27 @@ employee-salary-prediction/
 ├── README.md # Project documentation
 ├── requirements.txt # Python dependencies
 
-
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/cv05x/Employee-Salary-Prediction.git
 cd employee-salary-prediction
 
+```
 ### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
 
+```
+
 ### 3. Run the Streamlit App
+```bash
 streamlit run app.py
+
+```
 
 
 ## Features
